@@ -20,7 +20,7 @@ f) 2,10, 12, 16, 17, 18, 19, 20
 
 desafio 5:
 
-vou numeras os interruptores 1, 2 e 3
+vou numera-las os interruptores 1, 2 e 3
 
 ligo o interruptor 1  espero alguns minutos desligo o interruptor 1 e logo após ligo o interruptor 2 e
 a lampada acesa pertence ao interruptor 2 a lampada morna pertence ao interruptor 1 e a fria que não foi acesa ao interruptor 3
